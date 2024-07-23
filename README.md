@@ -1,1 +1,1 @@
-# photo-house
+# photohouse
